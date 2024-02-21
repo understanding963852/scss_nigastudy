@@ -6,3 +6,6 @@
 
 
 ![image](https://github.com/understanding963852/scss_nigastudy/assets/60366769/99068e2e-8477-48ce-a5ca-bfaad3972def)
+
+# 숫자
+![image](https://github.com/understanding963852/scss_nigastudy/assets/60366769/7e996325-a52d-407b-addc-b96999d496f2)
